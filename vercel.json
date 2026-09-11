@@ -1,0 +1,7 @@
+{
+  "redirects": [
+    { "source": "/whatsapp", "destination": "https://chat.whatsapp.com/HlcsNoizg2sCrJdLYzaC1a", "permanent": false },
+    { "source": "/live", "destination": "https://meet.google.com/qmq-wbip-imw", "permanent": false },
+    { "source": "/", "destination": "https://kupla.fr", "permanent": false }
+  ]
+}
