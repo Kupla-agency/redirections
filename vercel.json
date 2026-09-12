@@ -2,6 +2,7 @@
   "redirects": [
     { "source": "/whatsapp", "destination": "https://chat.whatsapp.com/HlcsNoizg2sCrJdLYzaC1a", "permanent": false },
     { "source": "/live", "destination": "https://meet.google.com/qmq-wbip-imw", "permanent": false },
+    { "source": "/agenda", "destination": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjIwZ2ppY290Nm1qOW9nbXBsdjR0c2I5dG9fMjAyNjA5MTRUMTcwMDAwWiBhZ2VuY2VAa3VwbGEuZnI&tmsrc=agence%40kupla.fr&scp=ALL", "permanent": false },
     { "source": "/", "destination": "https://kupla.fr", "permanent": false }
   ]
 }
