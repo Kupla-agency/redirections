@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/whatsapp", "destination": "https://chat.whatsapp.com/HlcsNoizg2sCrJdLYzaC1a", "permanent": false },
+    { "source": "/whatsapp", "destination": "https://chat.whatsapp.com/DnISnOXbWAQ0xGzmjfkbPv?mode=gi_t", "permanent": false },
     { "source": "/live", "destination": "https://meet.google.com/qmq-wbip-imw", "permanent": false },
     { "source": "/agenda", "destination": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGw0a3BjNDhjczRvNWVoaTAzZTJ1aG44NmpfMjAyNjEwMDVUMTcwMDAwWiBhZ2VuY2VAa3VwbGEuZnI&tmsrc=agence%40kupla.fr&scp=ALL", "permanent": false },
     { "source": "/candidature", "destination": "https://tally.so/r/gDzP1D", "permanent": false },
